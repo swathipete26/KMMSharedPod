@@ -1,0 +1,6 @@
+framework module KMMSharedPod {
+    umbrella header "KMMSharedPod.h"
+
+    export *
+    module * { export * }
+}
